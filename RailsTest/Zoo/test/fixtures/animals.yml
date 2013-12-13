@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  legs: false
+  species: MyString
+  type: 
+  color: MyString
+  danger_level: MyString
+
+two:
+  legs: false
+  species: MyString
+  type: 
+  color: MyString
+  danger_level: MyString
